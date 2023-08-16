@@ -1,0 +1,1309 @@
+{
+  "function_name": "square_roots",
+  "args": [
+    55,
+    12,
+    -29
+  ],
+  "kwargs": {},
+  "results": [
+    0.63,
+    -0.84
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    60,
+    26,
+    9
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.22+0.32j)",
+    "(-0.22-0.32j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    60,
+    -72,
+    24
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.6+0.2j)",
+    "(0.6-0.2j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -50,
+    43,
+    -37
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.43-0.75j)",
+    "(0.43+0.75j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    44,
+    1,
+    -58
+  ],
+  "kwargs": {},
+  "results": [
+    1.14,
+    -1.16
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -29,
+    -13,
+    -28
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.22-0.96j)",
+    "(-0.22+0.96j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    32,
+    -83,
+    -3
+  ],
+  "kwargs": {},
+  "results": [
+    2.63,
+    -0.04
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -12,
+    18,
+    45
+  ],
+  "kwargs": {},
+  "results": [
+    -1.33,
+    2.83
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -56,
+    -23,
+    61
+  ],
+  "kwargs": {},
+  "results": [
+    -1.27,
+    0.86
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    70,
+    34,
+    -6
+  ],
+  "kwargs": {},
+  "results": [
+    0.14,
+    -0.62
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    60,
+    64,
+    -88
+  ],
+  "kwargs": {},
+  "results": [
+    0.79,
+    -1.86
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    90,
+    10,
+    -77
+  ],
+  "kwargs": {},
+  "results": [
+    0.87,
+    -0.98
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    28,
+    -76,
+    95
+  ],
+  "kwargs": {},
+  "results": [
+    "(1.36+1.25j)",
+    "(1.36-1.25j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    95,
+    -4,
+    31
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.02+0.57j)",
+    "(0.02-0.57j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    52,
+    14,
+    6
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.13+0.31j)",
+    "(-0.13-0.31j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    22,
+    21,
+    91
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.48+1.98j)",
+    "(-0.48-1.98j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -54,
+    -78,
+    -44
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.72-0.54j)",
+    "(-0.72+0.54j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    87,
+    19,
+    -51
+  ],
+  "kwargs": {},
+  "results": [
+    0.66,
+    -0.88
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    35,
+    68,
+    56
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.97+0.81j)",
+    "(-0.97-0.81j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    15,
+    -52,
+    -44
+  ],
+  "kwargs": {},
+  "results": [
+    4.17,
+    -0.7
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -1,
+    31,
+    26
+  ],
+  "kwargs": {},
+  "results": [
+    -0.82,
+    31.82
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    11,
+    17,
+    56
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.77+2.12j)",
+    "(-0.77-2.12j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    67,
+    -52,
+    49
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.39+0.76j)",
+    "(0.39-0.76j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -73,
+    -48,
+    20
+  ],
+  "kwargs": {},
+  "results": [
+    -0.95,
+    0.29
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    5,
+    69,
+    92
+  ],
+  "kwargs": {},
+  "results": [
+    -1.5,
+    -12.3
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -87,
+    46,
+    45
+  ],
+  "kwargs": {},
+  "results": [
+    -0.5,
+    1.03
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -70,
+    41,
+    -12
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.29-0.29j)",
+    "(0.29+0.29j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -67,
+    87,
+    -74
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.65-0.83j)",
+    "(0.65+0.83j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    86,
+    25,
+    -56
+  ],
+  "kwargs": {},
+  "results": [
+    0.67,
+    -0.97
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    73,
+    8,
+    -81
+  ],
+  "kwargs": {},
+  "results": [
+    1.0,
+    -1.11
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -79,
+    -57,
+    2
+  ],
+  "kwargs": {},
+  "results": [
+    -0.76,
+    0.03
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -93,
+    96,
+    -16
+  ],
+  "kwargs": {},
+  "results": [
+    0.21,
+    0.82
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    89,
+    1,
+    62
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.01+0.83j)",
+    "(-0.01-0.83j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -63,
+    -7,
+    53
+  ],
+  "kwargs": {},
+  "results": [
+    -0.97,
+    0.86
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    5,
+    43,
+    47
+  ],
+  "kwargs": {},
+  "results": [
+    -1.29,
+    -7.31
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    34,
+    -5,
+    -92
+  ],
+  "kwargs": {},
+  "results": [
+    1.72,
+    -1.57
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    80,
+    -36,
+    -69
+  ],
+  "kwargs": {},
+  "results": [
+    1.18,
+    -0.73
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    26,
+    19,
+    65
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.37+1.54j)",
+    "(-0.37-1.54j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -5,
+    -59,
+    11
+  ],
+  "kwargs": {},
+  "results": [
+    -11.98,
+    0.18
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -48,
+    -72,
+    -45
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.75-0.61j)",
+    "(-0.75+0.61j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -30,
+    30,
+    32
+  ],
+  "kwargs": {},
+  "results": [
+    -0.65,
+    1.65
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -30,
+    92,
+    79
+  ],
+  "kwargs": {},
+  "results": [
+    -0.7,
+    3.77
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    98,
+    29,
+    12
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.15+0.32j)",
+    "(-0.15-0.32j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -58,
+    52,
+    18
+  ],
+  "kwargs": {},
+  "results": [
+    -0.27,
+    1.16
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -62,
+    40,
+    85
+  ],
+  "kwargs": {},
+  "results": [
+    -0.89,
+    1.54
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -92,
+    -29,
+    -8
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.16-0.25j)",
+    "(-0.16+0.25j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -80,
+    -28,
+    -34
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.17-0.63j)",
+    "(-0.17+0.63j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -54,
+    45,
+    -63
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.42-1j)",
+    "(0.42+1j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    34,
+    -96,
+    1
+  ],
+  "kwargs": {},
+  "results": [
+    2.81,
+    0.01
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -1,
+    -34,
+    8
+  ],
+  "kwargs": {},
+  "results": [
+    -34.23,
+    0.23
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    90,
+    66,
+    -65
+  ],
+  "kwargs": {},
+  "results": [
+    0.56,
+    -1.29
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    43,
+    -54,
+    -42
+  ],
+  "kwargs": {},
+  "results": [
+    1.8,
+    -0.54
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -7,
+    31,
+    74
+  ],
+  "kwargs": {},
+  "results": [
+    -1.72,
+    6.15
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    40,
+    -16,
+    2
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.2+0.1j)",
+    "(0.2-0.1j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -11,
+    -21,
+    -58
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.95-2.09j)",
+    "(-0.95+2.09j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    67,
+    -81,
+    -78
+  ],
+  "kwargs": {},
+  "results": [
+    1.84,
+    -0.63
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -71,
+    29,
+    57
+  ],
+  "kwargs": {},
+  "results": [
+    -0.71,
+    1.12
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    43,
+    18,
+    -9
+  ],
+  "kwargs": {},
+  "results": [
+    0.29,
+    -0.71
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    98,
+    54,
+    12
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.28+0.22j)",
+    "(-0.28-0.22j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    45,
+    -32,
+    -23
+  ],
+  "kwargs": {},
+  "results": [
+    1.15,
+    -0.44
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -29,
+    66,
+    -61
+  ],
+  "kwargs": {},
+  "results": [
+    "(1.14-0.9j)",
+    "(1.14+0.9j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -33,
+    40,
+    -100
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.61-1.63j)",
+    "(0.61+1.63j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    23,
+    -62,
+    -7
+  ],
+  "kwargs": {},
+  "results": [
+    2.8,
+    -0.11
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    83,
+    23,
+    83
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.14+0.99j)",
+    "(-0.14-0.99j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -99,
+    -89,
+    -14
+  ],
+  "kwargs": {},
+  "results": [
+    -0.7,
+    -0.2
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    73,
+    -16,
+    -80
+  ],
+  "kwargs": {},
+  "results": [
+    1.16,
+    -0.94
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    92,
+    62,
+    -18
+  ],
+  "kwargs": {},
+  "results": [
+    0.22,
+    -0.89
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -14,
+    -25,
+    -100
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.89-2.52j)",
+    "(-0.89+2.52j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    34,
+    33,
+    74
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.49+1.39j)",
+    "(-0.49-1.39j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -75,
+    30,
+    -8
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.2-0.26j)",
+    "(0.2+0.26j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -22,
+    -12,
+    84
+  ],
+  "kwargs": {},
+  "results": [
+    -2.25,
+    1.7
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -31,
+    77,
+    44
+  ],
+  "kwargs": {},
+  "results": [
+    -0.48,
+    2.96
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -50,
+    -37,
+    -78
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.37-1.19j)",
+    "(-0.37+1.19j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -59,
+    82,
+    -23
+  ],
+  "kwargs": {},
+  "results": [
+    0.39,
+    1.0
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    44,
+    -19,
+    -71
+  ],
+  "kwargs": {},
+  "results": [
+    1.5,
+    -1.07
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    12,
+    15,
+    49
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.62+1.92j)",
+    "(-0.62-1.92j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    10,
+    41,
+    44
+  ],
+  "kwargs": {},
+  "results": [
+    "(-2.05+0.44j)",
+    "(-2.05-0.44j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    38,
+    -8,
+    -62
+  ],
+  "kwargs": {},
+  "results": [
+    1.39,
+    -1.18
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -11,
+    -15,
+    -72
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.68-2.47j)",
+    "(-0.68+2.47j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -91,
+    90,
+    56
+  ],
+  "kwargs": {},
+  "results": [
+    -0.43,
+    1.42
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -27,
+    19,
+    -9
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.35-0.46j)",
+    "(0.35+0.46j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -6,
+    56,
+    9
+  ],
+  "kwargs": {},
+  "results": [
+    -0.16,
+    9.49
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    96,
+    97,
+    89
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.51+0.82j)",
+    "(-0.51-0.82j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    58,
+    -36,
+    42
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.31+0.79j)",
+    "(0.31-0.79j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    45,
+    -43,
+    2
+  ],
+  "kwargs": {},
+  "results": [
+    0.91,
+    0.05
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    68,
+    -46,
+    13
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.34+0.28j)",
+    "(0.34-0.28j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    92,
+    -60,
+    94
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.33+0.96j)",
+    "(0.33-0.96j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    41,
+    -97,
+    98
+  ],
+  "kwargs": {},
+  "results": [
+    "(1.18+1j)",
+    "(1.18-1j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    29,
+    8,
+    -11
+  ],
+  "kwargs": {},
+  "results": [
+    0.49,
+    -0.77
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    18,
+    -59,
+    24
+  ],
+  "kwargs": {},
+  "results": [
+    2.8,
+    0.48
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -36,
+    -38,
+    -22
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.53-0.58j)",
+    "(-0.53+0.58j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    75,
+    66,
+    14
+  ],
+  "kwargs": {},
+  "results": [
+    -0.36,
+    -0.52
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -25,
+    11,
+    44
+  ],
+  "kwargs": {},
+  "results": [
+    -1.12,
+    1.56
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -65,
+    -24,
+    -54
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.18-0.89j)",
+    "(-0.18+0.89j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    95,
+    -3,
+    -66
+  ],
+  "kwargs": {},
+  "results": [
+    0.85,
+    -0.82
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    25,
+    -4,
+    -26
+  ],
+  "kwargs": {},
+  "results": [
+    1.1,
+    -0.94
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -79,
+    -55,
+    67
+  ],
+  "kwargs": {},
+  "results": [
+    -1.33,
+    0.64
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    12,
+    -28,
+    98
+  ],
+  "kwargs": {},
+  "results": [
+    "(1.17+2.61j)",
+    "(1.17-2.61j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -79,
+    -59,
+    99
+  ],
+  "kwargs": {},
+  "results": [
+    -1.55,
+    0.81
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    36,
+    -11,
+    33
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.15+0.95j)",
+    "(0.15-0.95j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -97,
+    36,
+    -39
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.19-0.61j)",
+    "(0.19+0.61j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -84,
+    78,
+    39
+  ],
+  "kwargs": {},
+  "results": [
+    -0.36,
+    1.29
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    20,
+    -97,
+    2
+  ],
+  "kwargs": {},
+  "results": [
+    4.83,
+    0.02
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    -98,
+    94,
+    -99
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.48-0.88j)",
+    "(0.48+0.88j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    18,
+    -12,
+    34
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.33+1.33j)",
+    "(0.33-1.33j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    59,
+    45,
+    -73
+  ],
+  "kwargs": {},
+  "results": [
+    0.79,
+    -1.56
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    58,
+    -14,
+    93
+  ],
+  "kwargs": {},
+  "results": [
+    "(0.12+1.26j)",
+    "(0.12-1.26j)"
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    30,
+    -67,
+    35
+  ],
+  "kwargs": {},
+  "results": [
+    1.4,
+    0.83
+  ]
+}{
+  "function_name": "square_roots",
+  "args": [
+    100,
+    85,
+    42
+  ],
+  "kwargs": {},
+  "results": [
+    "(-0.42+0.49j)",
+    "(-0.42-0.49j)"
+  ]
+}
